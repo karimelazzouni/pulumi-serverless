@@ -1,0 +1,9 @@
+config:
+  azure:location: westeurope
+  iac-workshop:resource-group: mygroupdev
+  pulumi-serverless:consumption-plan: plandev
+  pulumi-serverless:function-app: fadev
+  pulumi-serverless:resource-group: mygroupdev
+  pulumi-serverless:storage-account: storagedev
+  pulumi-serverless:zip-blob: zip
+  pulumi-serverless:zips-container: zips
